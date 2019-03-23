@@ -1,6 +1,6 @@
 # 75.06/95.58 Organización de Datos
-##Primer Cuatrimestre de 2019
-###Trabajo Práctico 1: Enunciado
+## Primer Cuatrimestre de 2019
+### Trabajo Práctico 1: Enunciado
 
 
 Para esta primera entrega del TP, realizaremos el análisis exploratorio del set de datos provisto por la empresa Jampp. 
@@ -20,7 +20,7 @@ El objetivo del primer TP es realizar un análisis exploratorio del set de datos
 3. Informar el link a un repositorio Github en donde pueda bajarse el código completo para generar el análisis.
 4. Agregar en Kaggle un kernel con el análisis exploratorio realizado (deseable pero no mandatorio)
 
-####La evaluación del TP se realizará en base al siguiente criterio:
+#### La evaluación del TP se realizará en base al siguiente criterio:
 
 - Originalidad del análisis exploratorio. 
 - Calidad del reporte. ¿Está bien escrito? ¿Es claro y preciso? 
@@ -34,7 +34,7 @@ El objetivo del primer TP es realizar un análisis exploratorio del set de datos
 - ¿El uso del color es adecuado?
 - ¿Hay un exceso o falta de elementos visuales en la visualización elegida?
 - ¿La visualización es consistente con los datos?
-####Conclusiones presentadas.
+#### Conclusiones presentadas.
 - ¿Presenta el grupo un listado de "insights" aprendidos sobre los datos en base al análisis realizado? ¿Es interesante?
 - ¿Identificaron patrones o funnels de usuarios? 
 - ¿El análisis realiza un aporte a Jampp?
@@ -50,7 +50,7 @@ La idea del TP1 es obtener información que facilite luego plantear una solució
 Glosario
 
 - Convertir: el objetivo de mostrar publicidad es que un dispositivo instale una aplicación, a ese evento se le llama conversión.
-Dispositivo: entidad con un id de publicidad asociado. Por ejemplo: un celular Samsung J6 con Android tiene un id único, un Apple iPhone tiene un identificador único. 
+- Dispositivo: entidad con un id de publicidad asociado. Por ejemplo: un celular Samsung J6 con Android tiene un id único, un Apple iPhone tiene un identificador único. 
 - Evento: cualquier tipo de acción categorizada dentro de una aplicación. Por ejemplo, en una aplicación de e-commerce un funnel de eventos muy común puede ser del estilo “abrir_app” → “buscar_producto” → “revisar_catalogo” → “agregar_a_carrito” → “efectuar_compra”. Cada uno de estos pasos es un evento.
-Subasta: en el momento que una aplicación quiere mostrar una publicidad, ese espacio se vende en una subasta (generalmente de segundo precio) donde todos los interesados en mostrar una publicidad ofertan un precio y gana quién más ofrece.
+- Subasta: en el momento que una aplicación quiere mostrar una publicidad, ese espacio se vende en una subasta (generalmente de segundo precio) donde todos los interesados en mostrar una publicidad ofertan un precio y gana quién más ofrece.
 
