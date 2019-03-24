@@ -1,7 +1,6 @@
 # 75.06/95.58 Organización de Datos
-## Primer Cuatrimestre de 2019
-### Trabajo Práctico 1: Enunciado
-
+## Trabajo Práctico 1: Enunciado
+#### Primer Cuatrimestre de 2019
 
 Para esta primera entrega del TP, realizaremos el análisis exploratorio del set de datos provisto por la empresa Jampp. 
 
@@ -47,7 +46,7 @@ Como dato a tener en cuenta, para el TP2 se trabajará con estos mismos datos in
 
 La idea del TP1 es obtener información que facilite luego plantear una solución para el TP2.
 
-Glosario
+#### Glosario
 
 - Convertir: el objetivo de mostrar publicidad es que un dispositivo instale una aplicación, a ese evento se le llama conversión.
 - Dispositivo: entidad con un id de publicidad asociado. Por ejemplo: un celular Samsung J6 con Android tiene un id único, un Apple iPhone tiene un identificador único. 
