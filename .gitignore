@@ -3,3 +3,4 @@ data/auctions.csv.gzip
 data/clicks.csv.gzip
 data/events.csv.gzip
 data/installs.csv.gzip
+.ipynb_checkpoints\
