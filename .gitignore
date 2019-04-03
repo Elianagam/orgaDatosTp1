@@ -1,4 +1,8 @@
-
+.ipynb_checkpoints/prueba_clicks2-checkpoint.ipynb
+.ipynb_checkpoints/prueba_events-checkpoint.ipynb
+.ipynb_checkpoints/prueba_installs-checkpoint.ipynb
+.ipynb_checkpoints/prueba_installs2-checkpoint.ipynb
+data/
 data/auctions.csv.gzip
 data/clicks.csv.gzip
 data/events.csv.gzip
