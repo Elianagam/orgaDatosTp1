@@ -4,6 +4,7 @@
 .ipynb_checkpoints/prueba_installs2-checkpoint.ipynb
 .ipynb_checkpoints/merge_events_clicks-checkpoint.ipynb
 data/
+images/
 data/auctions.csv.gzip
 data/clicks.csv.gzip
 data/events.csv.gzip
