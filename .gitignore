@@ -1,13 +1,7 @@
-.ipynb_checkpoints/prueba_events-checkpoint.ipynb
-.ipynb_checkpoints/prueba_installs-checkpoint.ipynb
 .ipynb_checkpoints/merge_events_clicks-checkpoint.ipynb
 .ipynb_checkpoints/Join_clicks_installs-checkpoint.ipynb
-.ipynb_checkpoints/Untitled-checkpoint.ipynb
 .ipynb_checkpoints/desc-checkpoint.json
 .ipynb_checkpoints/installs-checkpoint.ipynb
-.ipynb_checkpoints/installs_events-checkpoint.ipynb
-.ipynb_checkpoints/integracion_ref_hash-checkpoint.ipynb
-.ipynb_checkpoints/prueba_merge-checkpoint.ipynb
 data/
 images/
 data/auctions.csv.gzip
@@ -15,3 +9,5 @@ data/clicks.csv.gzip
 data/events.csv.gzip
 data/installs.csv.gzip
 .ipynb_checkpoints/
+desc.json
+image/
